@@ -23,6 +23,7 @@
     <modules>
         <module>graphs-basic</module>
         <module>graphs-additional</module>
+        <module>graphs-custom</module>
         <module>graphs-composite</module>
         <module>graphs-dist</module>
         <module>graphs-vs</module>
